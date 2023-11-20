@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "img" : "/img2.png",
+        "Number" : "240452",
+        "body" : "Followers"
+    },
+    {
+        "id" : 2,
+        "img" : "/img3.png",
+        "Number" : "6300",
+        "body" : "Solved Problems"
+    },
+    {
+        "id" : 3,
+        "img" : "/img4.png",
+        "Number" : "25000",
+        "body" : "Happy Customers"
+    },
+    {
+        "id" : 4,
+        "img" : "/img6.png",
+        "Number" : "360452",
+        "body" : "Projects"
+    }
+]

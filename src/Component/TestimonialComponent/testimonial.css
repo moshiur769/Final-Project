@@ -1,0 +1,86 @@
+.testmonialpage{
+    padding-top: 180px;
+}
+.testmonialData{
+    padding-bottom: 50px;
+}
+.testmonialData h3{
+    color: #101A29;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.testmonialData p{
+    color: #101A29;
+    font-weight: 600;
+}
+
+.testmonialData p span{
+    color: #20B15A;
+    font-weight: 600;
+    margin-left: 9px;
+}
+.testmonialList{
+    margin: 20px 0px;
+}
+.testmonialList p{
+    font-size: 20px;
+    font-weight: 500;
+    color: #20B15A;
+}
+.testmonialList h3{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+#testmonialImg{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+.testData{
+    padding: 30px;
+    width: 97%;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+}
+.testImg{
+
+}
+.testTitle{
+    text-align: center;
+    margin-top: 30px;
+    color: #9D9D9D;
+    font-weight: 400;
+}
+.testName{
+    font-size: 26px;
+    font-weight: 600;
+    color: black;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

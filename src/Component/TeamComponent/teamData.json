@@ -1,0 +1,26 @@
+[
+  {
+    "id" : 1,
+    "image1" : "/team1.png",
+    "img2" : "/team1logo.png",
+    "img3" : "/team2logo.png",
+    "img4" : "/team3logo.png",
+    "name" : "Devon Lane"
+  },
+  {
+    "id" : 2,
+    "image1" : "/team2.png",
+    "img2" : "/team1logo.png",
+    "img3" : "/team2logo.png",
+    "img4" : "/team3logo.png",
+    "name" : "Danny Bailey"
+  },
+  {
+    "id" : 3,
+    "image1" : "/team3.png",
+    "img2" : "/team1logo.png",
+    "img3" : "/team2logo.png",
+    "img4" : "/team3logo.png",
+    "name" : "Alex Lov"
+  }
+]
